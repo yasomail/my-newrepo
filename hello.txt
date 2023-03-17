@@ -1,1 +1,2 @@
-Hello, this is a first test for file in git
+Hello, this is a first test for file in git.
+added remotely
